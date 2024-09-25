@@ -21,4 +21,4 @@
 
 [<<安装finalshell](01/finalshell/)
 
-[>>安装面板](01/mianban/)
+[>>购买域名](01/yuming/)
