@@ -17,11 +17,15 @@ Telegram频道:[点我直达](https://t.me/fenghuoyule)
 
 ## 赞助
 
-USDT:`TTNAmQUsVPqg8Lmpm4UoNq2Seceax7h23Y`
+USDT-TRC20:`TWAadVTf9pFcgJ9gCuEb2sYNEtrKRAy8VY`
 
-BTC:`bc1puwzyc86jjgxz69y8xewa0fwh4w7f9d8njxrkutwmag9xcy9temnsyq9z57`
+USDT-BEP20:`0xb689c6cee15a76d0b5e4d282082c023d05e826c1`
 
-ETH:`0x618c87c1d7ff043c15cfd1bc6b1543f74c76fc2e`
+BNB:`0xb689c6cee15a76d0b5e4d282082c023d05e826c1`
+
+ETH:`0xb689c6cee15a76d0b5e4d282082c023d05e826c1`
+
+BTC:`bc1pzs5q6wfgjmlkfxj5aw4p0drv0jcx25adqtapwfcthy47d29aanqswht7ua`
 
 ---
 
