@@ -9,9 +9,9 @@
 
 作者:烽火戏诸侯
 
-联系机器人:[烽火双向机器人](https://t.me/fenghuo_sx_bot)
+联系机器人:已被封禁
 
-Telegram频道:[点我直达](https://t.me/fenghuoyule)
+Telegram频道:频道主号已被封 等待开下个账号
 
 ---
 
