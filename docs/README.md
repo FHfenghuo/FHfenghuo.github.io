@@ -17,15 +17,15 @@ Telegram频道:频道主号已被封 等待开下个账号
 
 ## 赞助
 
-USDT-TRC20:`TWAadVTf9pFcgJ9gCuEb2sYNEtrKRAy8VY`
+USDT-TRC20:`暂无`
 
-USDT-BEP20:`0xb689c6cee15a76d0b5e4d282082c023d05e826c1`
+USDT-BEP20:`暂无`
 
-BNB:`0xb689c6cee15a76d0b5e4d282082c023d05e826c1`
+BNB:`暂无`
 
-ETH:`0xb689c6cee15a76d0b5e4d282082c023d05e826c1`
+ETH:`暂无`
 
-BTC:`bc1pzs5q6wfgjmlkfxj5aw4p0drv0jcx25adqtapwfcthy47d29aanqswht7ua`
+BTC:`暂无`
 
 ---
 
